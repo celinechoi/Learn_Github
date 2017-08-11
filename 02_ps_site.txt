@@ -1,0 +1,36 @@
+
+git입문 자세히 나온 사이트
+https://backlogtool.com/git-guide/kr/intro/intro2_4.html
+
+*git command line : git bash*
+
+git 설치 및 사용하기
+http://freeprog.tistory.com/72 또는
+http://recoveryman.tistory.com/253
+
+완전 초보를 위한 깃허브
+https://nolboo.kim/blog/2013/10/06/github-for-beginner/
+
+깃허브전체적인흐름알기
+http://rogerdudler.github.io/git-guide/index.ko.html
+
+브라켓 플러그인 : git
+http://rickluna.com/wp/2016/03/brackets-git-integration/
+
+tortoiseGit 사용법
+http://kwangho9-develope.blogspot.kr/2016/11/git-clienttortoisegit.html
+
+------------------------------------------------------------------------------
+
+
+*git gui(그래픽인터페이스)*
+
+http://trend21c.tistory.com/1431
+
+------------------------------------------------------------------------------
+
+*etc*
+
+
+project 삭제
+http://codedragon.tistory.com/967

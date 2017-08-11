@@ -1,0 +1,37 @@
+2017.08.03
+
+git windows 용 선 설치 요망
+
+http://freeprog.tistory.com/72
+
+* github는... git의 로컬저장소이다. *
+-> git 프로그램 window용을 다운받아 bash창을 실행시켜 명령어를 입력하고 해당 컴퓨터에 있는 폴더를 git 로컬저장소(github)로 등록하여 
+기록할 수 있고 공유할 수 있는 구조이다. 
+
+
+*실행방법 : 해당 작업 파일 오른쪽 마우스 git bash 또는 git gui 로 실행.*
+
+git bash : git command line으로 직접 명령어를 치면서 git로컬저장소(github)에 로드.
+
+git gui(그래픽 인터페이스) : 각 단계에서 실행해 할 명령어가 써있는 메뉴를 클릭만 하면 됨.
+
+
+*폴더 git 로컬저장소로 등록하기*
+
+mkdir : make directory의 약자로 새로운 디렉토리를 만들 때 사용하는 리눅스 명령어. 리눅스를 기반으로 한 쉘 스크립트를 기본적으로 bash에서는 사용한다. 
+ls : 리눅스의 기본 명령어로 해당 디렉터에 있는 내용을 출력
+ls -a : 숨김파일을 포함한 경로안의 모든 파일과 디렉토리 표시해준다. 
+ls -l : 지정된 디렉토리의 내용을 자세히 출력
+ls -d : 지정된 디렉토리의 정보 출력
+ls -n : 파일 및 디렉토리 정보 출력시 UID, GID를 사용
+ls -F : 파일 형식을 알리는 문자를 각 파일 뒤에 추가 ("*", "/", "@", "|", "=", "NULL")
+ls -R : 하위 경로와 그 안에 있는 모든 파일들도 같이 나열
+ls -t : 파일 수정 시간순으로 정렬
+cd : 이동하려는 디렉토리로 이동
+
+여러옵션을 한 명령어에 연이어서 사용 가능.
+
+**리눅스 명령어 참고 사이트 http://maeuminpaper.tistory.com/110 **
+
+
+*한글깨짐문제 : '$ git config core.quotepath false' 추가 입력  // 출처:https://til.chann.kr/vcs/git-ko-path-name-fix*
