@@ -1,6 +1,7 @@
 
 git입문 자세히 나온 사이트
 https://backlogtool.com/git-guide/kr/intro/intro2_4.html
+https://nolboo.kim/blog/2013/10/06/github-for-beginner/
 
 *git command line : git bash*
 
@@ -20,6 +21,9 @@ http://rickluna.com/wp/2016/03/brackets-git-integration/
 tortoiseGit 사용법
 http://kwangho9-develope.blogspot.kr/2016/11/git-clienttortoisegit.html
 
+git commit, branch 전략 잘 짜기 
+http://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220763012361&redirect=Dlog
+
 ------------------------------------------------------------------------------
 
 
@@ -30,6 +34,9 @@ http://trend21c.tistory.com/1431
 ------------------------------------------------------------------------------
 
 *etc*
+
+연결상태를 확인
+git remote -v
 
 
 project 삭제
